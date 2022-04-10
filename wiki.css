@@ -17,5 +17,10 @@ a:hover {
     border: 2px;
     padding: 30px;
     outline: black solid 2px;
-    
+    float: right;
+}
+
+#one {
+    padding-top: 500px;
+   
 }
