@@ -1,0 +1,21 @@
+* {
+    font-family: arial;
+    
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.cool {
+    margin: 40px;
+    border: 2px;
+    padding: 30px;
+    outline: black solid 2px;
+    
+}
