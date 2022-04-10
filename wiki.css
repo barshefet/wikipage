@@ -18,9 +18,17 @@ a:hover {
     padding: 30px;
     outline: black solid 2px;
     float: right;
+    background-color: rgb(239, 239, 239);
 }
 
 #one {
     padding-top: 500px;
    
+}
+
+.cool h2 {
+    font-size: 125%;
+    font-weight: 700;
+    
+    background-color: rgb(173, 173, 173);
 }
